@@ -1,2 +1,3 @@
-curl 
+curl -LJO https://github.com/JeversonDias/space/blob/main/space
 mv space /usr/bin
+chmod +x /usr/bin/space
