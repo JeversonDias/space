@@ -19,7 +19,7 @@
 <h2>copiar o comando a baixo e colar no terminal e pressionar ENTER</h2>
 
 ```bash
-curl -sSL https://github.com/JeversonDias/space/raw/main/space -o /usr/bin/space && chmod +x /usr/bin/space
+curl -sSL https://github.com/JeversonDias/space/raw/main/space -o /usr/bin/space && chmod +x /usr/bin/space && batocera-save-overlay && echo"By @JCGAMESCLASSICOS"
 
 ```
 
