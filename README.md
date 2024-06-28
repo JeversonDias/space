@@ -12,7 +12,9 @@
 <br>
 <h2>Consiste em criar links simbólicos de um diretório para uotro diretírio onde o link vao ser executado como arquivo principal.</h2>
 <br>
-# INSTALAÇÃO
+
+# Instalação
+
 <br>
 <h2>copiar o comando a baixo e colar no terminal e pressionar ENTER</h2>
 
